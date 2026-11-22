@@ -1,0 +1,6 @@
+dataset,raw_rows,duplicates_removed,recovered_rows,imputed_rows,ship_date_cleared_rows,ship_date_anomaly_rows,rejected_rows,clean_rows,net_revenue,line_profit
+customers_master,150,0,0,0,0,0,0,150,,
+products_master,30,0,0,0,0,0,0,30,,
+previous_days_summary,30,0,0,0,0,0,0,30,8418231.21,
+orders.csv,1020,2,4,2,0,1,9,1011,1055953.26,273418.26
+new_daily_batch.csv,333,4,11,7,60,5,19,314,317174.08,106624.08

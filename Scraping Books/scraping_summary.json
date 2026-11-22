@@ -1,0 +1,30 @@
+{
+  "scraped_at_utc": "2026-11-22T17:44:05+00:00",
+  "source_url": "https://books.toscrape.com/",
+  "raw_rows_scraped": 1000,
+  "unique_books_exported": 1000,
+  "categories_count": 50,
+  "in_stock_count": 1000,
+  "total_stock_units": 8585,
+  "books_without_description": 2,
+  "duplicate_titles_with_distinct_upc": 2,
+  "price_incl_tax_min_gbp": 10.0,
+  "price_incl_tax_median_gbp": 35.98,
+  "price_incl_tax_mean_gbp": 35.07,
+  "price_incl_tax_max_gbp": 59.99,
+  "rating_distribution": {
+    "1": 226,
+    "2": 196,
+    "3": 203,
+    "4": 179,
+    "5": 196
+  },
+  "validation_checks": {
+    "mojibake_hits": 0,
+    "missing_upc": 0,
+    "invalid_ratings": 0,
+    "invalid_prices": 0,
+    "scrape_error_count": 0
+  },
+  "errors": []
+}

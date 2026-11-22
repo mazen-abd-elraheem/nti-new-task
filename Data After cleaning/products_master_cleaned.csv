@@ -1,0 +1,31 @@
+Product_ID,Product_Name,Category,Unit_Cost,Current_Stock,Reorder_Level,Stock_Alert,Units_Below_Reorder
+P001,Wireless Headphones,Electronics,450,120,30,Healthy,0
+P002,Bluetooth Speaker,Electronics,300,80,25,Healthy,0
+P003,Smart Watch,Electronics,900,45,20,Healthy,0
+P004,Phone Charger,Electronics,60,200,50,Healthy,0
+P005,USB Cable,Electronics,25,0,40,Out of Stock,40
+P006,Power Bank,Electronics,220,18,20,Reorder Needed,2
+P007,Laptop Stand,Electronics,180,60,15,Healthy,0
+P008,Coffee Maker,Home,550,40,15,Healthy,0
+P009,Kettle,Home,180,70,20,Healthy,0
+P010,Vacuum Cleaner,Home,1200,22,10,Healthy,0
+P011,Desk Lamp,Home,140,55,20,Healthy,0
+P012,Wall Clock,Home,90,8,15,Reorder Needed,7
+P013,Bed Sheet Set,Home,260,45,20,Healthy,0
+P014,Face Cream,Beauty,120,90,30,Healthy,0
+P015,Shampoo,Beauty,55,0,40,Out of Stock,40
+P016,Perfume,Beauty,380,35,15,Healthy,0
+P017,Lipstick,Beauty,70,110,30,Healthy,0
+P018,Sunscreen,Beauty,95,6,20,Reorder Needed,14
+P019,T-Shirt,Fashion,80,200,50,Healthy,0
+P020,Jeans,Fashion,220,90,30,Healthy,0
+P021,Sneakers,Fashion,420,60,20,Healthy,0
+P022,Handbag,Fashion,350,40,15,Healthy,0
+P023,Cap,Fashion,50,4,20,Reorder Needed,16
+P024,Scarf,Fashion,70,0,15,Out of Stock,15
+P025,Yoga Mat,Sports,110,55,15,Healthy,0
+P026,Dumbbell Set,Sports,280,30,10,Healthy,0
+P027,Running Shoes,Sports,520,45,15,Healthy,0
+P028,Water Bottle,Sports,40,180,50,Healthy,0
+P029,Jump Rope,Sports,35,9,15,Reorder Needed,6
+P030,Fitness Tracker,Sports,480,25,10,Healthy,0
